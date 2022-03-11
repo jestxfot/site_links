@@ -1,4 +1,4 @@
-#qiwi {
+ #qiwi {
     background-color: #FF8D00;
 }
 #boosty {
@@ -13,4 +13,21 @@
 
 #ava {
     height: 90px;
+}
+
+#fnafsb {
+    background-color: rgba(0, 0, 0, 0.493);
+}
+
+.socnet {
+    height: 90px;
+}
+
+.links {
+    height: 90px;
+}
+
+.header {
+    margin-top: 0px;
+    margin-bottom: -18px;
 }
