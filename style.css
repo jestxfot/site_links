@@ -1,12 +1,18 @@
- #qiwi {
+body {
+    background-image: url('https://jestxfots.vercel.app/frontend/static/grid_14/img/theme-2_bg-6b943e1c66.jpg');
+}    
+#qiwi {
     background-color: #FF8D00;
 }
+
 #boosty {
     background-color: #F1672B;
 }
+
 #patreon {
     background-color: #F86754;
 }
+
 #idprofile {
     height: 100px;
 }
